@@ -29,9 +29,6 @@ Lab6Web
 │        ├───error.php
 │        └───update.php
 │
-├───screenshot
-│    └───directory.JPG
-│
 └───template
      ├───footer.php
      ├───form_insert.php
