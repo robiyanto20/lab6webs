@@ -26,4 +26,6 @@ Lab6Web
      ├───form_update.php
      ├───header.php
      └───navbar.php
+     
+    ------db-------
 ```
