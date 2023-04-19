@@ -3,7 +3,6 @@
 
 ## **Directory Path**
 
-<img src="screenshot/foto.JPG">
 
 <br/><br/>
 
