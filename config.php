@@ -4,5 +4,5 @@ $config = array(
   'host' => 'localhost',
   'username' => 'root',
   'password' => '',
-  'db_name' => 'lab5web'
+  'db_name' => 'tabel_mahasiswa'
 );
