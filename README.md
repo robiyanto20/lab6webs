@@ -1,13 +1,4 @@
 
-<br/><br/>
-
-
-
-
-<br/><br/>
-
-## **Directory Tree**
-
 ```bash
 Lab6Web
 │
