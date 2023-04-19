@@ -1,8 +1,3 @@
-# PROJECT PRAKTIKUM 6 (OOP Lanjutan)
-
-**_Nama: Muhammad Akbar_** <br/>
-**_Nim : 312110483_** <br/>
-**_Kelas : TI.21.A3_** <br/>
 
 <br/><br/>
 
